@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "dynamic-controls",
+    "libraryId": "4389a0b3-45fc-45e9-a794-c7b9a8ed6459",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

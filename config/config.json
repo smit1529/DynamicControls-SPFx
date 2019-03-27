@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "dynamic-controls-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/dynamicControls/DynamicControlsWebPart.js",
+          "manifest": "./src/webparts/dynamicControls/DynamicControlsWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "DynamicControlsWebPartStrings": "lib/webparts/dynamicControls/loc/{locale}.js"
+  }
+}

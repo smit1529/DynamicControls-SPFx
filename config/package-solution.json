@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "dynamic-controls-client-side-solution",
+    "id": "4389a0b3-45fc-45e9-a794-c7b9a8ed6459",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/dynamic-controls.sppkg"
+  }
+}
